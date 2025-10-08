@@ -35,7 +35,7 @@ select option {
 
     > :hover {
       background-color: #3a97da;
-      color: white;
+      color: #fff;
     }
   }
 }
