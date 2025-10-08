@@ -32,7 +32,7 @@ This app allows users to browse, read, and manage blog posts with smooth navigat
 
 ## 🎥 Live Demo
 
-🔗 **[Watch Demo](https://your-demo-link.vercel.app/ "Live Dem")**
+🔗 **[Watch Demo](https://blog-app-gamma-eight-28.vercel.app/ "Live Dem")**
 
 ---
 
