@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Container from "./components/Container";
 import { Toaster } from "./components/ui/sonner";
 import Footer from "./components/Footer";
-import NavbarSm from "./components/navbarSm";
+import NavbarSm from "./components/NavbarSm";
 
 export default function Layout({ children }) {
   return (
